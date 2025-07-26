@@ -158,7 +158,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RabbiaWaheed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rabbia-waheed-02b96921a/)  
 [![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rabbiawaheed395)  
 [![GitHub](https://img.shields.io/badge/GitHub-rabbia67-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabbia67)  
-[![Portal](https://img.shields.io/badge/Portal-Website-28a745?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/rabbia67/rabbia67)
+[![Portal](https://img.shields.io/badge/Portal-Website-28a745?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rabbia67.github.io/)
 
 </div>
 
