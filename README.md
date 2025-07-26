@@ -154,37 +154,14 @@
 
 <div align="center">
 
-  <!-- Gmail Badge -->
-  <a href="mailto:rabbiawaheed3952@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rabbiawaheed3952@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-  </a>
-
-  <!-- LinkedIn Badge -->
-  <a href="https://linkedin.com/in/rabbia-waheed-02b96921a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-RabbiaWaheed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-
-  <!-- Medium Badge -->
-  <a href="https://medium.com/@rabbiawaheed395" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
-  </a>
-
-  <!-- GitHub Badge -->
-  <a href="https://github.com/rabbia67" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-rabbia67-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-
-  <!-- Personal Portal Badge -->
-  <a href="https://jahangir842.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portal-Visit-28a745?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website Badge" />
-  </a>
-
-  <!-- GitHub Profile Link (optional) -->
-  <div style="margin-top: 10px;">
-    <a href="https://github.com/rabbia67" target="_blank">https://github.com/rabbia67/rabbia67</a>
-  </div>
+[![Gmail](https://img.shields.io/badge/Gmail-rabbiawaheed3952@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabbiawaheed3952@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RabbiaWaheed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rabbia-waheed-02b96921a/)  
+[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rabbiawaheed395)  
+[![GitHub](https://img.shields.io/badge/GitHub-rabbia67-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabbia67)  
+[![Portal](https://img.shields.io/badge/Portal-Website-28a745?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/rabbia67/rabbia67)
 
 </div>
+
 
 
 ---
