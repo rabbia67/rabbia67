@@ -154,7 +154,7 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-rabbiawaheed3952@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabbiawaheed3952@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-rabbiawaheed395@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabbiawaheed3952@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RabbiaWaheed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rabbia-waheed-02b96921a/)  
 [![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rabbiawaheed395)  
 [![GitHub](https://img.shields.io/badge/GitHub-rabbia67-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabbia67)  
